@@ -65,6 +65,6 @@ If you'd like to contribute:
 ## 🚀 Stay Connected  
 Feel free to follow my journey or connect with me:  
 - **GitHub**: [nitinmehra09](https://github.com/nitinmehra09)  
-- **LeetCode Profile**: [https://leetcode.com/u/Nitinmehra_09/](#)  
+- **LeetCode Profile**: [https://leetcode.com/u/Nitinmehra_09](#)  
 
 ---
